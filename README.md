@@ -12,18 +12,21 @@ Start the application using `npm run start`
 
 
 ## Credits
+Starter Code:
+ * https://github.com/coding-boot-camp/cautious-meme
+
  * https://webpack.js.org/guides/getting-started/#creating-a-bundle
  * https://webpack.js.org/concepts/loaders/#configuration
  * https://webpack.js.org/plugins/mini-css-extract-plugin/#getting-started
 
-* In class activity 
+* In class activities
 * ASK BCS & Virtual Learning Assistant
 * Classmates
 * My tutor
 
 ## License
-Please refer to the license in my repo
+Please refer to the license in my repo (MIT LICENSE)
 
 ## Links
 * Github Repo: https://github.com/melmealey/Text-Editor
-* Deployed Application: 
+* Deployed Application: https://warm-beach-47863-a2f8eb90870e.herokuapp.com/
