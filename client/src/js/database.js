@@ -21,7 +21,7 @@ export const putDb = async (content) => {
 	const request = store.put({ id: 1, value: content });
 	const result = await request;
 	console.log('data saved to the dB!!', result);
-  console.error('data not found in the dB');
+
 }
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
@@ -34,6 +34,6 @@ export const getDb = async () => {
   // return result?.value;
 
 	console.log('data saved to the dB!!', result.value, result);
-  console.error('data not found in the dB');
+
 }
 initdb();
