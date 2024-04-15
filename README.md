@@ -1,15 +1,12 @@
 # Text-Editor
+![Screenshot 2024-04-15 at 1 30 20 PM](https://github.com/melmealey/Text-Editor/assets/147653410/7daafedb-e42d-4324-b04f-9eb3e1a1ea1c)
 
 ## Description
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
+Notes can be saved in this PWA whether you have a connection to internet or not. Even when you refresh, your notes will be there. Never loose your thoughts again.
 
 ## Installation
 Run `npm install` to install all dependencies
-Start the application using `npm run start`
-
-## Usage
-
+Start the application using `npm run start:dev`
 
 ## Credits
 Starter Code:
@@ -25,7 +22,7 @@ Starter Code:
 * My tutor
 
 ## License
-Please refer to the license in my repo (MIT LICENSE)
+This project is licensed under the terms of the MIT license.
 
 ## Links
 * Github Repo: https://github.com/melmealey/Text-Editor
